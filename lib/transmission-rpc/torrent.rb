@@ -21,6 +21,7 @@ module Transmission
         :seed_ratio_limit   => 'seedRatioLimit',
         :size               => 'sizeWhenDone',
         :status             => 'status',
+        :trackers           => 'trackers',
         :torrent_file       => 'torrentFile',
         :total_size         => 'totalSize',
         :upload_limit       => 'uploadLimit',
